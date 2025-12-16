@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/the-flux-labs/.github/main/assets/flux_labs_banner.png" alt="Flux Labs Banner">
+  <img src="https://github.com/thefluxlabs/.github/blob/main/profile/FluxLabsBannerNY.png?raw=true" alt="Flux Labs Banner">
 </p>
 
 <h1 align="center">Добро пожаловать во Flux Labs</h1>
@@ -37,7 +37,7 @@
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/the-flux-labs/flux-core">
-          🚀 FLUX Core
+          🚀 FLUX
         </a>
       </h3>
       <p>Центральный хаб нашей экосистемы. Мощный инструмент для твикинга, очистки и мониторинга вашей системы Windows.</p>
