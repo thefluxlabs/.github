@@ -28,7 +28,7 @@
 
 ---
 
-### 🔥 Наша экосистема: FLUX Suite
+### 🔥 Наша экосистема FLUX
 
 Вот основные проекты, над которыми мы сейчас работаем. Исследуйте, вносите свой вклад и делайте их еще лучше!
 
@@ -36,7 +36,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/the-flux-labs/flux-core">
+        <a href="https://github.com/the-flux-labs/FLUX">
           🚀 FLUX
         </a>
       </h3>
@@ -45,8 +45,8 @@
         <code>JPHP</code> <code>Java</code> <code>CSS</code>
       </p>
       <p>
-        <img src="https://img.shields.io/github/stars/the-flux-labs/flux-core?style=flat-square&label=Звёзды&color=FF512F" alt="Звёзды">
-        <img src="https://img.shields.io/github/forks/the-flux-labs/flux-core?style=flat-square&label=Форки&color=F09819" alt="Форки">
+        <img src="https://img.shields.io/github/stars/the-flux-labs/flux?style=flat-square&label=Звёзды&color=FF512F" alt="Звёзды">
+        <img src="https://img.shields.io/github/forks/the-flux-labs/flux?style=flat-square&label=Форки&color=F09819" alt="Форки">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -97,6 +97,21 @@
       </p>
     </td>
   </tr>
+      <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/the-flux-labs/flux-drive">
+          🛠️ FluxDrive
+        </a>
+      </h3>
+      <p>Программа для скачивания/записи ISO образов ОС на флешку.</p>
+      <p>
+        <code>PHP</code> <code>Java</code> <code>CSS</code>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/the-flux-labs/flux-tray?style=flat-square&label=Звёзды&color=FF512F" alt="Звёзды">
+        <img src="https://img.shields.io/github/forks/the-flux-labs/flux-tray?style=flat-square&label=Форки&color=F09819" alt="Форки">
+      </p>
+    </td>
 </table>
 
 ---
