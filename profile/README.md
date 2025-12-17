@@ -12,7 +12,7 @@
     <a href="[ССЫЛКА НА САЙТ]"><img src="https://img.shields.io/badge/Сайт-FF512F?style=for-the-badge&logo=website&logoColor=white" alt="Сайт"></a>
     <a href="[ССЫЛКА НА TELEGRAM]"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="[ССЫЛКА НА DISCORD]"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-    <a href="https://github.com/the-flux-labs/flux-core/blob/main/LICENSE"><img src="https://img.shields.io/badge/Лицензия-MIT-F09819?style=for-the-badge" alt="Лицензия"></a>
+    <a href="https://github.com/thefluxlabs/FLUX/blob/main/LICENSE"><img src="https://img.shields.io/badge/Лицензия-MIT-F09819?style=for-the-badge" alt="Лицензия"></a>
 </p>
 <br>
 
@@ -36,7 +36,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/the-flux-labs/FLUX">
+        <a href="https://github.com/thefluxlabs/FLUX">
           🚀 FLUX
         </a>
       </h3>
@@ -45,13 +45,13 @@
         <code>JPHP</code> <code>Java</code> <code>CSS</code>
       </p>
       <p>
-        <img src="https://img.shields.io/github/stars/the-flux-labs/flux?style=flat-square&label=Звёзды&color=FF512F" alt="Звёзды">
-        <img src="https://img.shields.io/github/forks/the-flux-labs/flux?style=flat-square&label=Форки&color=F09819" alt="Форки">
+        <img src="https://img.shields.io/github/stars/thefluxlabs/flux?style=flat-square&label=Звёзды&color=FF512F" alt="Звёзды">
+        <img src="https://img.shields.io/github/forks/thefluxlabs/flux?style=flat-square&label=Форки&color=F09819" alt="Форки">
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/the-flux-labs/flux-play">
+        <a href="https://github.com/thefluxlabs/flux-play">
           🎮 FluxPlay
         </a>
       </h3>
@@ -60,8 +60,8 @@
         <code>Electron</code> <code>Node.js</code>
       </p>
       <p>
-        <img src="https://img.shields.io/github/stars/the-flux-labs/flux-play?style=flat-square&label=Звёзды&color=FF512F" alt="Звёзды">
-        <img src="https://img.shields.io/github/forks/the-flux-labs/flux-play?style=flat-square&label=Форки&color=F09819" alt="Форки">
+        <img src="https://img.shields.io/github/stars/thefluxlabs/flux-play?style=flat-square&label=Звёзды&color=FF512F" alt="Звёзды">
+        <img src="https://img.shields.io/github/forks/thefluxlabs/flux-play?style=flat-square&label=Форки&color=F09819" alt="Форки">
       </p>
     </td>
   </tr>
