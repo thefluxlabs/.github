@@ -108,8 +108,8 @@
         <code>PHP</code> <code>Java</code> <code>CSS</code>
       </p>
       <p>
-        <img src="https://img.shields.io/github/stars/the-flux-labs/flux-tray?style=flat-square&label=Звёзды&color=FF512F" alt="Звёзды">
-        <img src="https://img.shields.io/github/forks/the-flux-labs/flux-tray?style=flat-square&label=Форки&color=F09819" alt="Форки">
+        <img src="https://img.shields.io/github/stars/the-flux-labs/flux-drive?style=flat-square&label=Звёзды&color=FF512F" alt="Звёзды">
+        <img src="https://img.shields.io/github/forks/the-flux-labs/flux-drive?style=flat-square&label=Форки&color=F09819" alt="Форки">
       </p>
     </td>
 </table>
