@@ -1,0 +1,12 @@
+<svg width="256" height="256" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="fluxGrad" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#FF512F"/>
+            <stop offset="100%" stop-color="#F09819"/>
+        </linearGradient>
+    </defs>
+
+    <path d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12" stroke="url(#fluxGrad)" stroke-width="2.5" stroke-linecap="round"/>
+    
+    <path d="M10.5 6L8 12.5H11.5L9.5 18L16.5 10.5H13L15.5 6H10.5Z" fill="url(#fluxGrad)"/>
+</svg>
